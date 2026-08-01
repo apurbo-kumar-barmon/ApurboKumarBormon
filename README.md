@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/db8613a1-5f35-44b4-be1d-bfeb9fa99eaf)
+![Image](https://github.com/apurbo-kumar-barmon/ApurboRay6/blob/main/Apurbo%20Ray%20%20React.js%20Frontend%20Developer.png)
 <h1 align="center">Hi 👋, I'm Apurbo Ray </h1>
 <h3 align="center">A Professional frontend developer from Bangladesh </h3>
 
